@@ -1,5 +1,7 @@
 # Fortunate Son
 
+![Fortunate Son Render Adjusted](https://github.com/user-attachments/assets/1d281fb2-c429-4063-ba81-1cdc6e3cca75)
+
 Official hardware documentation, CAD repository, and Engineering Portfolio for **Fortunate Son**, a high-performance FIRST Tech Challenge robot by **Team Thunderstrike 33535**. This release focuses on the physical build and mechanical assembly, optimized for rigidity, precision localization, and high-speed scoring.
 
 ---
