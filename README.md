@@ -1,4 +1,4 @@
-# Fortunate Son — Competition Edition (Hardware)
+# Fortunate Son
 
 Official hardware documentation, CAD repository, and Engineering Portfolio for **Fortunate Son**, a high-performance FIRST Tech Challenge robot by **Team Thunderstrike 33535**. This release focuses on the physical build and mechanical assembly, optimized for rigidity, precision localization, and high-speed scoring.
 
